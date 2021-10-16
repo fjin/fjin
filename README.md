@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fjin
-- 👀 I’m interested in devops, AWS, Azure
-- 🌱 I’m currently learning Azure
-- 💞️ I’m looking to collaborate on AWS
+- 👀 I’m interested in devops, AWS, Azure, GCP
+- 🌱 I’m currently learning GCP, go
+- 💞️ I’m looking to collaborate on AWS. GCP, go
 - 📫 How to reach me fjinss@gmail.com
 
 <!---
